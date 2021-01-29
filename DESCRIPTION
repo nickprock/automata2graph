@@ -1,0 +1,11 @@
+Package: automata2graph
+Type: Package
+Title: Convert a cellular automata in a connected graph
+Version: 1.0
+Date: 2021-01-29
+Author: Nicola Procopio
+Maintainer: Who to complain to <nico.pro412@gmail.com>
+Description: Create a cellular automata by Wolfram's rules or Gilman's rules (display the evolution) and convert it in a social network.
+Imports: igraph
+Depends: igraph
+License: `use_mit_license()`

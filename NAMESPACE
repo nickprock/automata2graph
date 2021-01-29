@@ -1,0 +1,5 @@
+export(cellularAutomata2Graph)
+import(igraph)
+importFrom("grDevices", "grey", "rainbow")
+importFrom("graphics", "image", "par")
+importFrom("stats", "rbinom")
