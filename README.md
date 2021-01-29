@@ -1,1 +1,4 @@
-automata2graph
+> automata2graph
+
+> README WORK IN PROGRESS.
+> SEE YOU LATER
