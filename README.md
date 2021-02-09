@@ -24,7 +24,7 @@ Automata to Graph.
 **automata2graph** is an R package that computes cellular automata according to [Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) and [Gilman](https://scholar.google.com/citations?user=Y3JQXbAAAAAJ&hl=en)'s rules and transforms them into a social network. The cells of the automaton are the nodes of the graph.
 
 #### Rule: 30
-> Wolfram rule with 10 cells
+> Wolfram rule with 100 cells
 
 ![](https://i.imgur.com/er7guNp.png)
 
