@@ -3,7 +3,7 @@ function(wolfrule, N, nrows){
   # wolfrule is the number of rule
   # N is the number of columns/cell 
   # nrows is the number of rows/steps
-  initialstate<-rbinom(N,1, prob = 0.5)
+  initialstate<-c(1 ,0 ,1 ,0 ,1 ,1)
   ncols<-length(initialstate)
   A<-matrix(0, nrows, ncols); A[1,]<-initialstate;
 
